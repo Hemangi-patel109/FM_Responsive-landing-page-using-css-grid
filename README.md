@@ -20,7 +20,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://hemangi-patel109.github.io/FM_Responsive-landing-page-using-css-grid/)
 
 ## My process
 
